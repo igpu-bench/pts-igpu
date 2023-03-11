@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v10.8.4-->
+<PhoronixTestSuite>
+  <Downloads>
+    <Package>
+      <URL></URL>
+      <MD5></MD5>
+      <SHA256></SHA256>
+      <FileName></FileName>
+      <FileSize></FileSize>
+      <PlatformSpecific></PlatformSpecific>
+      <ArchitectureSpecific>ppc64</ArchitectureSpecific>
+      <Optional></Optional>
+    </Package>
+  </Downloads>
+</PhoronixTestSuite>
